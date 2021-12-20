@@ -1,4 +1,6 @@
 ## Hi there, I'm Lawson Oliveira 👋
+## I'm Electrical Engineering student at Federal University of Ceará and CentraleSupélec
+
 <div align="center">
   <a href="https://github.com/LawsonOliveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LawsonOliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -8,7 +10,7 @@
   <img align="center" alt="Law-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Law-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Law-Matlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="Law-pic" height="180" style="border-radius:50px;" src="https://media.discordapp.net/attachments/922510724545265707/922510873560506408/Law-anime.png?width=413&height=413">
 </div>
   <link rel="stylesheet" href=>
 
