@@ -1,5 +1,5 @@
 ## Hi there, I'm Lawson Oliveira 👋
-I'm Electrical Engineering student at Federal University of Ceará and CentraleSupélec
+I'm electrical engineering student at Federal University of Ceará and CentraleSupélec
 
 <div align="center">
   <a href="https://github.com/LawsonOliveira">
