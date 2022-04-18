@@ -1,4 +1,4 @@
-## Hi there, I'm Lawson Oliveira 👋
+## Hi, I'm Lawson Oliveira 👋
 I'm electrical engineering student at Federal University of Ceará and CentraleSupélec
 
 <div align="center">
