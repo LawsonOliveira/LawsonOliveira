@@ -1,6 +1,6 @@
 # 👋 Hi there
 <div> 
-  <img align="right" alt="Law-pic" height="280" style="border-radius:80px;" src="https://media.discordapp.net/attachments/1025049014103724063/1025049279250837594/FcYb0OxXkAEcuLL.jpg">
+  <img align="right" alt="Law-pic" height="250" style="border-radius:80px;" src="https://media.discordapp.net/attachments/1025049014103724063/1025049279250837594/FcYb0OxXkAEcuLL.jpg">
 </div>
   <link rel="stylesheet" href=>
 
@@ -25,7 +25,7 @@ I have a solid foundation in calculus, statistics, differential equations and si
   <img align="center" alt="Law-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Law-Pytorch" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg">
   <img align="center" alt="Law-Jax" height="30" width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftheaisummer.com%2Fstatic%2Ff90161f13b7ace6a479b5158291e60c2%2F63868%2Fjax-logo.png&f=1&nofb=1&ipt=fd6cb005a44fc5246ddf0e807cf074e0372dace870b4d9612d723ed83e64bac5&ipo=images">
-  <img align="center" alt="Law-SciKit-learn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Law-SciKit-Learn" height="30" width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.oursky.com%2Fassets%2Fimg%2Ftech__scikit.png&f=1&nofb=1&ipt=26bacda1e7dce374ad6ac1d8b328190470191f9efe21a1b21445367bb49a0fcb&ipo=images">
   <img align="center" alt="Law-Scipy" height="30" width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubusercontent.com%2Fscipy%2Fscipy-sphinx-theme%2Fmaster%2F_static%2Fscipyshiny_small.png&f=1&nofb=1&ipt=d33ff5da0dd7fe2d85c150d161cef57b63bdd3696d92412fda9f4c5628a39a62&ipo=images">
   <img align="center" alt="Law-OpenCV" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg">
   <img align="center" alt="Law-Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
