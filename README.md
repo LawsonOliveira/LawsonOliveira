@@ -45,6 +45,6 @@ I have a solid foundation in calculus, statistics, differential equations and si
 # 📊 GitHub Stats
 
 <div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=LawsonOliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LawsonOliveira&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=LawsonOliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LawsonOliveira&layout=compact&langs_count=7&theme=dark"/>
 </div>
