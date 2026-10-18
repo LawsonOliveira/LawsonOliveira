@@ -2,8 +2,6 @@
 
 I'm Lawson Oliveira Lima, an AI/ML Engineer with a Master's degree from CentraleSupélec (France) and a Bachelor's degree in Electrical Engineering from the Federal University of Ceará (Brazil).
 
-I currently work as an AI Engineer (Backend & Infra) at Casa dos Ventos, a TotalEnergies joint venture, building multi-agent systems, agentic RAG and OCR pipelines in production.
-
 # 🚀 Expertise
 
 - **Agentic AI:** multi-agent orchestration, RAG, MCP, guardrails, LLMOps with Langfuse.
